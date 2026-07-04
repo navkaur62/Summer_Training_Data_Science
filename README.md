@@ -302,7 +302,7 @@ Power BI dashboards can be viewed using **Microsoft Power BI Desktop**.
 
 **Aspiring Data Analyst | Data Science Enthusiast | Power BI Developer**
 
-📧 **Email:** your-email@example.com
+📧 **Email:** navkaur6289@gmail.com
 
 🔗 **GitHub:** https://github.com/navkaur62
 
