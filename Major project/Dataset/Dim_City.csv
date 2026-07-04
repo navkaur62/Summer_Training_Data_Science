@@ -1,0 +1,321 @@
+City_ID,City,State
+1,Pune,Odisha
+2,Surat,Uttar Pradesh
+3,Bhubaneswar,West Bengal
+4,Chandigarh,Rajasthan
+5,Ahmedabad,Maharashtra
+6,Pune,Tamil Nadu
+7,Nagpur,Delhi
+8,Chandigarh,Madhya Pradesh
+9,Chandigarh,Karnataka
+10,Chennai,Maharashtra
+11,Ahmedabad,Madhya Pradesh
+12,Kolkata,Jharkhand
+13,Mumbai,Delhi
+14,Bhopal,Delhi
+15,Hyderabad,Maharashtra
+16,Mumbai,Karnataka
+17,Delhi,Bihar
+18,Bhopal,Assam
+19,Kochi,Uttar Pradesh
+20,Lucknow,Telangana
+21,Guwahati,Bihar
+22,Bhubaneswar,Tamil Nadu
+23,Bhubaneswar,Assam
+24,Nagpur,West Bengal
+25,Bhopal,Rajasthan
+26,Surat,West Bengal
+27,Kolkata,Delhi
+28,Bengaluru,Tamil Nadu
+29,Nagpur,Madhya Pradesh
+30,Pune,Jharkhand
+31,Jaipur,Karnataka
+32,Pune,Kerala
+33,Indore,Karnataka
+34,Chennai,Kerala
+35,Ranchi,Karnataka
+36,Indore,Rajasthan
+37,Jaipur,Kerala
+38,Mumbai,Rajasthan
+39,Surat,Bihar
+40,Bhubaneswar,Jharkhand
+41,Ahmedabad,Uttar Pradesh
+42,Bhubaneswar,Kerala
+43,Kochi,Karnataka
+44,Chennai,Karnataka
+45,Chennai,West Bengal
+46,Mumbai,Uttar Pradesh
+47,Hyderabad,Jharkhand
+48,Lucknow,Madhya Pradesh
+49,Chennai,Rajasthan
+50,Indore,West Bengal
+51,Bhopal,Maharashtra
+52,Mumbai,Assam
+53,Lucknow,Tamil Nadu
+54,Chennai,Assam
+55,Ranchi,Jharkhand
+56,Bhubaneswar,Maharashtra
+57,Ahmedabad,Tamil Nadu
+58,Patna,Rajasthan
+59,Indore,Delhi
+60,Patna,Gujarat
+61,Jaipur,Punjab
+62,Bhubaneswar,Delhi
+63,Patna,Jharkhand
+64,Delhi,Madhya Pradesh
+65,Pune,Assam
+66,Jaipur,Maharashtra
+67,Delhi,West Bengal
+68,Bhopal,Odisha
+69,Ahmedabad,Kerala
+70,Chandigarh,Odisha
+71,Nagpur,Maharashtra
+72,Kochi,Maharashtra
+73,Ahmedabad,Bihar
+74,Kolkata,Madhya Pradesh
+75,Kolkata,Telangana
+76,Delhi,Gujarat
+77,Bengaluru,Telangana
+78,Pune,Telangana
+79,Jaipur,Assam
+80,Pune,Uttar Pradesh
+81,Jaipur,Rajasthan
+82,Ahmedabad,Odisha
+83,Mumbai,Telangana
+84,Delhi,Karnataka
+85,Guwahati,Uttar Pradesh
+86,Bengaluru,Bihar
+87,Kolkata,Maharashtra
+88,Bhopal,Gujarat
+89,Ahmedabad,Telangana
+90,Kolkata,Gujarat
+91,Kolkata,Tamil Nadu
+92,Bengaluru,Uttar Pradesh
+93,Bhubaneswar,Gujarat
+94,Ranchi,Maharashtra
+95,Delhi,Tamil Nadu
+96,Bengaluru,Karnataka
+97,Pune,Punjab
+98,Lucknow,West Bengal
+99,Patna,Assam
+100,Nagpur,Odisha
+101,Pune,Delhi
+102,Kochi,Assam
+103,Surat,Karnataka
+104,Bengaluru,Gujarat
+105,Patna,Maharashtra
+106,Chandigarh,Bihar
+107,Nagpur,Telangana
+108,Mumbai,West Bengal
+109,Lucknow,Maharashtra
+110,Patna,Odisha
+111,Hyderabad,Rajasthan
+112,Bhopal,Telangana
+113,Bhopal,Tamil Nadu
+114,Delhi,Uttar Pradesh
+115,Delhi,Jharkhand
+116,Surat,Jharkhand
+117,Patna,Uttar Pradesh
+118,Kolkata,Rajasthan
+119,Hyderabad,Bihar
+120,Jaipur,Odisha
+121,Bengaluru,West Bengal
+122,Delhi,Odisha
+123,Nagpur,Kerala
+124,Lucknow,Rajasthan
+125,Bhopal,Jharkhand
+126,Bhubaneswar,Karnataka
+127,Jaipur,Gujarat
+128,Surat,Odisha
+129,Kochi,Rajasthan
+130,Kochi,Telangana
+131,Surat,Assam
+132,Bhopal,Karnataka
+133,Pune,Rajasthan
+134,Kolkata,Kerala
+135,Kochi,Delhi
+136,Bengaluru,Delhi
+137,Kochi,West Bengal
+138,Kochi,Punjab
+139,Kochi,Jharkhand
+140,Mumbai,Bihar
+141,Nagpur,Jharkhand
+142,Mumbai,Odisha
+143,Hyderabad,Karnataka
+144,Chennai,Odisha
+145,Chandigarh,Maharashtra
+146,Kochi,Tamil Nadu
+147,Hyderabad,Delhi
+148,Surat,Tamil Nadu
+149,Mumbai,Jharkhand
+150,Hyderabad,Tamil Nadu
+151,Chandigarh,Jharkhand
+152,Guwahati,Tamil Nadu
+153,Guwahati,West Bengal
+154,Delhi,Rajasthan
+155,Jaipur,Tamil Nadu
+156,Chennai,Tamil Nadu
+157,Surat,Telangana
+158,Pune,Bihar
+159,Indore,Gujarat
+160,Chandigarh,Telangana
+161,Kolkata,Bihar
+162,Guwahati,Madhya Pradesh
+163,Guwahati,Kerala
+164,Delhi,Assam
+165,Bhopal,Kerala
+166,Jaipur,Jharkhand
+167,Jaipur,West Bengal
+168,Nagpur,Bihar
+169,Guwahati,Gujarat
+170,Kolkata,Karnataka
+171,Chandigarh,Punjab
+172,Ahmedabad,Delhi
+173,Hyderabad,Assam
+174,Ahmedabad,Rajasthan
+175,Surat,Madhya Pradesh
+176,Kolkata,Odisha
+177,Guwahati,Jharkhand
+178,Kolkata,Uttar Pradesh
+179,Ranchi,Punjab
+180,Guwahati,Telangana
+181,Ranchi,West Bengal
+182,Patna,Karnataka
+183,Delhi,Maharashtra
+184,Delhi,Punjab
+185,Bengaluru,Maharashtra
+186,Guwahati,Odisha
+187,Nagpur,Rajasthan
+188,Chennai,Uttar Pradesh
+189,Kolkata,West Bengal
+190,Bhopal,Uttar Pradesh
+191,Ranchi,Telangana
+192,Hyderabad,Telangana
+193,Jaipur,Bihar
+194,Ranchi,Madhya Pradesh
+195,Delhi,Kerala
+196,Indore,Bihar
+197,Lucknow,Karnataka
+198,Indore,Madhya Pradesh
+199,Mumbai,Maharashtra
+200,Lucknow,Jharkhand
+201,Mumbai,Gujarat
+202,Ahmedabad,Gujarat
+203,Indore,Odisha
+204,Patna,Bihar
+205,Pune,Gujarat
+206,Chennai,Delhi
+207,Patna,Tamil Nadu
+208,Ahmedabad,Jharkhand
+209,Ranchi,Kerala
+210,Ranchi,Delhi
+211,Bhopal,Bihar
+212,Mumbai,Madhya Pradesh
+213,Lucknow,Assam
+214,Hyderabad,Gujarat
+215,Delhi,Delhi
+216,Chennai,Gujarat
+217,Patna,Madhya Pradesh
+218,Bhubaneswar,Odisha
+219,Nagpur,Gujarat
+220,Bengaluru,Assam
+221,Bhubaneswar,Bihar
+222,Mumbai,Kerala
+223,Guwahati,Assam
+224,Bengaluru,Jharkhand
+225,Bhubaneswar,Madhya Pradesh
+226,Kochi,Kerala
+227,Surat,Rajasthan
+228,Guwahati,Punjab
+229,Bengaluru,Kerala
+230,Patna,West Bengal
+231,Kochi,Odisha
+232,Surat,Maharashtra
+233,Indore,Punjab
+234,Kolkata,Punjab
+235,Bengaluru,Odisha
+236,Bhopal,Madhya Pradesh
+237,Delhi,Telangana
+238,Ahmedabad,West Bengal
+239,Bhopal,West Bengal
+240,Nagpur,Tamil Nadu
+241,Ahmedabad,Karnataka
+242,Lucknow,Uttar Pradesh
+243,Lucknow,Bihar
+244,Jaipur,Madhya Pradesh
+245,Guwahati,Rajasthan
+246,Indore,Telangana
+247,Pune,West Bengal
+248,Bengaluru,Madhya Pradesh
+249,Kolkata,Assam
+250,Jaipur,Uttar Pradesh
+251,Surat,Punjab
+252,Pune,Karnataka
+253,Bengaluru,Rajasthan
+254,Guwahati,Karnataka
+255,Lucknow,Punjab
+256,Indore,Jharkhand
+257,Jaipur,Delhi
+258,Ranchi,Bihar
+259,Indore,Uttar Pradesh
+260,Hyderabad,West Bengal
+261,Patna,Delhi
+262,Surat,Delhi
+263,Pune,Madhya Pradesh
+264,Patna,Kerala
+265,Hyderabad,Madhya Pradesh
+266,Chennai,Jharkhand
+267,Jaipur,Telangana
+268,Kochi,Bihar
+269,Chandigarh,Uttar Pradesh
+270,Lucknow,Delhi
+271,Ranchi,Uttar Pradesh
+272,Bengaluru,Punjab
+273,Bhubaneswar,Punjab
+274,Chandigarh,Delhi
+275,Lucknow,Kerala
+276,Bhubaneswar,Rajasthan
+277,Bhubaneswar,Telangana
+278,Chandigarh,Kerala
+279,Indore,Tamil Nadu
+280,Chennai,Bihar
+281,Hyderabad,Odisha
+282,Patna,Telangana
+283,Nagpur,Uttar Pradesh
+284,Indore,Assam
+285,Kochi,Madhya Pradesh
+286,Ranchi,Gujarat
+287,Chandigarh,Assam
+288,Ranchi,Rajasthan
+289,Ranchi,Odisha
+290,Bhubaneswar,Uttar Pradesh
+291,Ranchi,Tamil Nadu
+292,Nagpur,Karnataka
+293,Ahmedabad,Punjab
+294,Hyderabad,Uttar Pradesh
+295,Surat,Kerala
+296,Chandigarh,Tamil Nadu
+297,Indore,Kerala
+298,Hyderabad,Kerala
+299,Kochi,Gujarat
+300,Chandigarh,Gujarat
+301,Ranchi,Assam
+302,Nagpur,Assam
+303,Chennai,Punjab
+304,Lucknow,Gujarat
+305,Chennai,Madhya Pradesh
+306,Surat,Gujarat
+307,Ahmedabad,Assam
+308,Chandigarh,West Bengal
+309,Patna,Punjab
+310,Indore,Maharashtra
+311,Pune,Maharashtra
+312,Mumbai,Tamil Nadu
+313,Lucknow,Odisha
+314,Hyderabad,Punjab
+315,Bhopal,Punjab
+316,Chennai,Telangana
+317,Mumbai,Punjab
+318,Guwahati,Delhi
+319,Guwahati,Maharashtra
+320,Nagpur,Punjab

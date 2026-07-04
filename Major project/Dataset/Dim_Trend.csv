@@ -1,0 +1,4 @@
+Trend_ID,Trend_Label,Trend_Direction,Price_Impact
+1,Rising,Upward,Negative for Consumer
+2,Falling,Downward,Positive for Consumer
+3,Stable,Neutral,Neutral

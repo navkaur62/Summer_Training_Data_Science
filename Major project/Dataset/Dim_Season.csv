@@ -1,0 +1,5 @@
+Season_ID,Festival_Season,Weekend,Season_Type
+1,Yes,Yes,Festival Weekend
+2,Yes,No,Festival Weekday
+3,No,Yes,Non-Festival Weekend
+4,No,No,Non-Festival Weekday
